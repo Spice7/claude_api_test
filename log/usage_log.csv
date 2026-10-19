@@ -1,0 +1,2 @@
+timestamp_utc,model,input_tokens,output_tokens,thinking_tokens
+2026-10-18T07:58:01Z,claude-opus-5-5,31,133,53
