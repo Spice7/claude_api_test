@@ -1,0 +1,2 @@
+timestamp_utc,model,prompt_tokens,cached_tokens,answer_tokens,thinking_tokens,total_tokens
+2026-10-19T08:30:02Z,gemini-3.8-flash,14,0,32,583,629
